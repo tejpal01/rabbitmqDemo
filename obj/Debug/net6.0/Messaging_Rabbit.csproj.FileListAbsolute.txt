@@ -1,0 +1,116 @@
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/obj/Debug/net6.0/Messaging_Rabbit.csproj.AssemblyReference.cache
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/obj/Debug/net6.0/Messaging_Rabbit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/obj/Debug/net6.0/Messaging_Rabbit.AssemblyInfoInputs.cache
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/obj/Debug/net6.0/Messaging_Rabbit.AssemblyInfo.cs
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/obj/Debug/net6.0/Messaging_Rabbit.csproj.CoreCompileInputs.cache
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/obj/Debug/net6.0/Messaging_Rabbit.MvcApplicationPartsAssemblyInfo.cache
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/obj/Debug/net6.0/Messaging_Rabbit.RazorAssemblyInfo.cache
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/obj/Debug/net6.0/Messaging_Rabbit.RazorAssemblyInfo.cs
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/bin/Debug/net6.0/appsettings.Development.json
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/bin/Debug/net6.0/appsettings.json
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/bin/Debug/net6.0/Messaging_Rabbit.staticwebassets.runtime.json
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/bin/Debug/net6.0/Messaging_Rabbit
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/bin/Debug/net6.0/Messaging_Rabbit.deps.json
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/bin/Debug/net6.0/Messaging_Rabbit.runtimeconfig.json
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/bin/Debug/net6.0/Messaging_Rabbit.dll
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/bin/Debug/net6.0/Messaging_Rabbit.pdb
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/bin/Debug/net6.0/Npgsql.dll
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/bin/Debug/net6.0/System.Diagnostics.DiagnosticSource.dll
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/bin/Debug/net6.0/System.Text.Json.dll
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/bin/Debug/net6.0/System.Threading.Channels.dll
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/obj/Debug/net6.0/staticwebassets.build.json
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/obj/Debug/net6.0/staticwebassets.development.json
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/obj/Debug/net6.0/scopedcss/bundle/Messaging_Rabbit.styles.css
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/obj/Debug/net6.0/scopedcss/projectbundle/Messaging_Rabbit.bundle.scp.css
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/obj/Debug/net6.0/Messaging_Rabbit.csproj.CopyComplete
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/obj/Debug/net6.0/Messaging_Rabbit.dll
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/obj/Debug/net6.0/refint/Messaging_Rabbit.dll
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/obj/Debug/net6.0/Messaging_Rabbit.pdb
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/obj/Debug/net6.0/Messaging_Rabbit.genruntimeconfig.cache
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/obj/Debug/net6.0/ref/Messaging_Rabbit.dll
+/Users/datteshjadav/Documents/Casepoint/Practicals/RabbitMQ/Messaging_Rabbit/bin/Debug/net6.0/System.Security.Permissions.dll
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\bin\Debug\net6.0\appsettings.Development.json
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\bin\Debug\net6.0\appsettings.json
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\bin\Debug\net6.0\Messaging_Rabbit.staticwebassets.runtime.json
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\bin\Debug\net6.0\Messaging_Rabbit.exe
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\bin\Debug\net6.0\Messaging_Rabbit.deps.json
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\bin\Debug\net6.0\Messaging_Rabbit.runtimeconfig.json
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\bin\Debug\net6.0\Messaging_Rabbit.dll
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\bin\Debug\net6.0\Messaging_Rabbit.pdb
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\bin\Debug\net6.0\Npgsql.dll
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\bin\Debug\net6.0\System.Text.Json.dll
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\bin\Debug\net6.0\System.Threading.Channels.dll
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\obj\Debug\net6.0\Messaging_Rabbit.csproj.AssemblyReference.cache
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\obj\Debug\net6.0\Messaging_Rabbit.GeneratedMSBuildEditorConfig.editorconfig
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\obj\Debug\net6.0\Messaging_Rabbit.AssemblyInfoInputs.cache
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\obj\Debug\net6.0\Messaging_Rabbit.AssemblyInfo.cs
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\obj\Debug\net6.0\Messaging_Rabbit.csproj.CoreCompileInputs.cache
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\obj\Debug\net6.0\Messaging_Rabbit.MvcApplicationPartsAssemblyInfo.cache
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\obj\Debug\net6.0\Messaging_Rabbit.RazorAssemblyInfo.cache
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\obj\Debug\net6.0\Messaging_Rabbit.RazorAssemblyInfo.cs
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\obj\Debug\net6.0\staticwebassets\msbuild.Messaging_Rabbit.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\obj\Debug\net6.0\staticwebassets\msbuild.build.Messaging_Rabbit.props
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Messaging_Rabbit.props
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Messaging_Rabbit.props
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\obj\Debug\net6.0\staticwebassets.pack.json
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\obj\Debug\net6.0\staticwebassets.build.json
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\obj\Debug\net6.0\staticwebassets.development.json
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\obj\Debug\net6.0\scopedcss\bundle\Messaging_Rabbit.styles.css
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\obj\Debug\net6.0\scopedcss\projectbundle\Messaging_Rabbit.bundle.scp.css
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\obj\Debug\net6.0\Messaging_Rabbit.csproj.CopyComplete
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\obj\Debug\net6.0\Messaging_Rabbit.dll
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\obj\Debug\net6.0\refint\Messaging_Rabbit.dll
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\obj\Debug\net6.0\Messaging_Rabbit.pdb
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\obj\Debug\net6.0\Messaging_Rabbit.genruntimeconfig.cache
+C:\CasePoint\Rabbit MQ\Messaging_Rabbit\obj\Debug\net6.0\ref\Messaging_Rabbit.dll
+D:\Messaging_Rabbit\Messaging_Rabbit\bin\Debug\net6.0\appsettings.Development.json
+D:\Messaging_Rabbit\Messaging_Rabbit\bin\Debug\net6.0\appsettings.json
+D:\Messaging_Rabbit\Messaging_Rabbit\bin\Debug\net6.0\Messaging_Rabbit.staticwebassets.runtime.json
+D:\Messaging_Rabbit\Messaging_Rabbit\bin\Debug\net6.0\Messaging_Rabbit.exe
+D:\Messaging_Rabbit\Messaging_Rabbit\bin\Debug\net6.0\Messaging_Rabbit.deps.json
+D:\Messaging_Rabbit\Messaging_Rabbit\bin\Debug\net6.0\Messaging_Rabbit.runtimeconfig.json
+D:\Messaging_Rabbit\Messaging_Rabbit\bin\Debug\net6.0\Messaging_Rabbit.dll
+D:\Messaging_Rabbit\Messaging_Rabbit\bin\Debug\net6.0\Messaging_Rabbit.pdb
+D:\Messaging_Rabbit\Messaging_Rabbit\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Messaging_Rabbit\Messaging_Rabbit\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Messaging_Rabbit\Messaging_Rabbit\bin\Debug\net6.0\Npgsql.dll
+D:\Messaging_Rabbit\Messaging_Rabbit\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\Messaging_Rabbit\Messaging_Rabbit\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Messaging_Rabbit\Messaging_Rabbit\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Messaging_Rabbit\Messaging_Rabbit\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Messaging_Rabbit\Messaging_Rabbit\bin\Debug\net6.0\System.Text.Json.dll
+D:\Messaging_Rabbit\Messaging_Rabbit\bin\Debug\net6.0\System.Threading.Channels.dll
+D:\Messaging_Rabbit\Messaging_Rabbit\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Messaging_Rabbit\Messaging_Rabbit\obj\Debug\net6.0\Messaging_Rabbit.csproj.AssemblyReference.cache
+D:\Messaging_Rabbit\Messaging_Rabbit\obj\Debug\net6.0\Messaging_Rabbit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Messaging_Rabbit\Messaging_Rabbit\obj\Debug\net6.0\Messaging_Rabbit.AssemblyInfoInputs.cache
+D:\Messaging_Rabbit\Messaging_Rabbit\obj\Debug\net6.0\Messaging_Rabbit.AssemblyInfo.cs
+D:\Messaging_Rabbit\Messaging_Rabbit\obj\Debug\net6.0\Messaging_Rabbit.csproj.CoreCompileInputs.cache
+D:\Messaging_Rabbit\Messaging_Rabbit\obj\Debug\net6.0\Messaging_Rabbit.MvcApplicationPartsAssemblyInfo.cache
+D:\Messaging_Rabbit\Messaging_Rabbit\obj\Debug\net6.0\Messaging_Rabbit.RazorAssemblyInfo.cache
+D:\Messaging_Rabbit\Messaging_Rabbit\obj\Debug\net6.0\Messaging_Rabbit.RazorAssemblyInfo.cs
+D:\Messaging_Rabbit\Messaging_Rabbit\obj\Debug\net6.0\staticwebassets.build.json
+D:\Messaging_Rabbit\Messaging_Rabbit\obj\Debug\net6.0\staticwebassets.development.json
+D:\Messaging_Rabbit\Messaging_Rabbit\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Messaging_Rabbit\Messaging_Rabbit\obj\Debug\net6.0\scopedcss\bundle\Messaging_Rabbit.styles.css
+D:\Messaging_Rabbit\Messaging_Rabbit\obj\Debug\net6.0\scopedcss\projectbundle\Messaging_Rabbit.bundle.scp.css
+D:\Messaging_Rabbit\Messaging_Rabbit\obj\Debug\net6.0\Messaging_Rabbit.csproj.CopyComplete
+D:\Messaging_Rabbit\Messaging_Rabbit\obj\Debug\net6.0\Messaging_Rabbit.dll
+D:\Messaging_Rabbit\Messaging_Rabbit\obj\Debug\net6.0\refint\Messaging_Rabbit.dll
+D:\Messaging_Rabbit\Messaging_Rabbit\obj\Debug\net6.0\Messaging_Rabbit.pdb
+D:\Messaging_Rabbit\Messaging_Rabbit\obj\Debug\net6.0\Messaging_Rabbit.genruntimeconfig.cache
+D:\Messaging_Rabbit\Messaging_Rabbit\obj\Debug\net6.0\ref\Messaging_Rabbit.dll

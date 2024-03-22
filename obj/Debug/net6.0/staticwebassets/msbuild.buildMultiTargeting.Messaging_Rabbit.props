@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Messaging_Rabbit.props" />
+</Project>
